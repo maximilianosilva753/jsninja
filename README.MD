@@ -1,0 +1,1 @@
+-- Initialize course JS Ninja --
